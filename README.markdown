@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fecho-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fecho-nginx-module?ref=badge_shield)
+
 Name
 ====
 
@@ -1844,3 +1846,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fecho-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fecho-nginx-module?ref=badge_large)
